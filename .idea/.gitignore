@@ -2,7 +2,11 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+<<<<<<< HEAD
 /../../../../../:\Job\Lecture-Classes\python-loops-2021-01\.idea/dataSources/
+=======
+/../../../../../:\Users\ankre\python-loops-2021-01\.idea/dataSources/
+>>>>>>> bc15d5b94582099a4e7180b1481cadeb53da1bed
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
