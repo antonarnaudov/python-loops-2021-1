@@ -1,4 +1,4 @@
-from python_substitutions.basics.exercise_1 import is_empty
+from python_sets.basics.exercise_1 import is_empty
 
 
 def is_subset(a, b):
