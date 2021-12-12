@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eae3ccbe-6a25-49d5-895c-d5a0d2f810e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-ninjas-2021-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-ninjas-2021-01.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/click_and_smile/smiley.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/click_and_smile/smiley.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_sets/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_sets/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,29 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.smiley">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-ninjas-2021-01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_sets/pop_a_baloon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_sets/pop_a_baloon/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="demo_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-ninjas-2021-01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,28 +139,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="smiley" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-ninjas-2021-01" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions/click_and_smile" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/click_and_smile/smiley.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="symetric_difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-ninjas-2021-01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +163,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.smiley" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.symetric_difference" />
         <item itemvalue="Python.matchmaker" />
         <item itemvalue="Python.difference" />
@@ -188,10 +184,16 @@
       <workItem from="1613208736258" duration="7797000" />
       <workItem from="1613229322245" duration="48000" />
       <workItem from="1613812480611" duration="12000" />
-      <workItem from="1613812518752" duration="8805000" />
-      <workItem from="1614988111104" duration="208000" />
-      <workItem from="1615035689149" duration="305000" />
-      <workItem from="1615037147046" duration="120000" />
+      <workItem from="1613812518752" duration="9135000" />
+      <workItem from="1613853163082" duration="363000" />
+      <workItem from="1613894542223" duration="760000" />
+      <workItem from="1613918764120" duration="610000" />
+      <workItem from="1613930284263" duration="158000" />
+      <workItem from="1613930544976" duration="82000" />
+      <workItem from="1613937814071" duration="8000" />
+      <workItem from="1614417397347" duration="10523000" />
+      <workItem from="1614892615653" duration="861000" />
+      <workItem from="1614894611898" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="Demos from sets intersections class, added to the repo">
       <created>1613217815819</created>
@@ -200,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613217815821</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Demos from sets difference class +matchmaker game with tkinter added to the repo">
+      <created>1613821800881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613821800881</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,15 +217,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Demos from sets intersections class, added to the repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Demos from sets intersections class, added to the repo" />
+    <MESSAGE value="Demos from sets difference class +matchmaker game with tkinter added to the repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demos from sets difference class +matchmaker game with tkinter added to the repo" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_ninjas_2021_01$difference.coverage" NAME="difference Coverage Results" MODIFIED="1613815661035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sets/difference" />
+    <SUITE FILE_PATH="coverage/python_ninjas_2021_01$difference.coverage" NAME="difference Coverage Results" MODIFIED="1614418406806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sets/difference" />
+    <SUITE FILE_PATH="coverage/python_ninjas_2021_01$app.coverage" NAME="app Coverage Results" MODIFIED="1614894542840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sets/pop_a_baloon" />
     <SUITE FILE_PATH="coverage/python_ninjas_2021_01$set_elements_sum.coverage" NAME="set_elements_sum Coverage Results" MODIFIED="1613215247227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sets/intersections" />
     <SUITE FILE_PATH="coverage/python_ninjas_2021_01$demo_for.coverage" NAME="demo_for Coverage Results" MODIFIED="1613215995455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demos" />
-    <SUITE FILE_PATH="coverage/python_ninjas_2021_01$matchmaker.coverage" NAME="matchmaker Coverage Results" MODIFIED="1613821263535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sets/difference" />
+    <SUITE FILE_PATH="coverage/python_ninjas_2021_01$matchmaker.coverage" NAME="matchmaker Coverage Results" MODIFIED="1614418806658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sets/difference" />
     <SUITE FILE_PATH="coverage/python_ninjas_2021_01$intersect.coverage" NAME="intersect Coverage Results" MODIFIED="1613211665950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sets/intersections" />
-    <SUITE FILE_PATH="coverage/python_ninjas_2021_01$symetric_difference.coverage" NAME="symetric_difference Coverage Results" MODIFIED="1614988299469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sets/difference" />
+    <SUITE FILE_PATH="coverage/python_ninjas_2021_01$symetric_difference.coverage" NAME="symetric_difference Coverage Results" MODIFIED="1614418770200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sets/difference" />
     <SUITE FILE_PATH="coverage/python_ninjas_2021_01$demo.coverage" NAME="demo Coverage Results" MODIFIED="1613172249562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demos" />
     <SUITE FILE_PATH="coverage/python_ninjas_2021_01$smiley.coverage" NAME="smiley Coverage Results" MODIFIED="1615037254367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions/click_and_smile" />
   </component>
