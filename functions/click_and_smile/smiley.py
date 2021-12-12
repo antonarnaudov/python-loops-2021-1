@@ -42,6 +42,4 @@ def draw_smiley(x, y):
     t.width(1)
 
 
-
-
 turtle.onscreenclick(draw_smiley)
